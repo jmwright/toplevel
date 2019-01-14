@@ -2,8 +2,8 @@
   "name": "toplevel",
   "version": "1.0.0",
   "description": "Sliderule DOF component.",
-  "license": "(Unlicense AND NotASourceLicense AND CC0-1.0 AND NotADocLicense AND CC-BY-4.0)",
+  "license": "(Unlicense AND NotASourceLicense AND CC0-1.0 AND CC-BY-4.0 AND NotADocLicense)",
   "dependencies": {
+    "blink_firmware": "git+https://github.com/jmwright/blink_firmware.git"
   }
 }
-
